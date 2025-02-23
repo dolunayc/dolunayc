@@ -1,11 +1,11 @@
 <h1 align="center">Hey there, I'm Dolunay! 🌙</h1>
 
-### 🚀 About Me
+## 🚀 About Me
 - 🎓 Software Engineering Student
-- 🔭 Interested in **Machine Learning & AI**
-- 🌱 Learning **Database Management & Programming Languages**
-- 🛠 Currently working with **C++, Python, SQL, JavaScript, and more!**
-
+- 🔭 Passionate about **Machine Learning**, **Deep Learning**, and **Image Processing**
+- ☁️ Currently exploring **Huawei Cloud**
+- 🌱 Working on improving my skills in **Web Development** (HTML, CSS, JavaScript)
+- 🌱 Aspiring **Technical Product Manager** and **Entrepreneur**
 ---
 
 ## 🛠 Languages & Tools:
