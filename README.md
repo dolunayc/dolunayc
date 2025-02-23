@@ -5,7 +5,7 @@
 - 🔭 Passionate about **Machine Learning**, **Deep Learning**, and **Image Processing**
 - ☁️ Currently exploring **Huawei Cloud**
 - 🌱 Working on improving my skills in **Web Development** (HTML, CSS, JavaScript)
-- 🌱 Aspiring **Technical Product Manager** and **Entrepreneur**
+- 🎯 Aspiring **Technical Product Manager** and **Entrepreneur**
 ---
 
 ## 🛠 Languages & Tools:
