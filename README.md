@@ -24,6 +24,10 @@
 
 ---
 
+### 🐍 GitHub Activity Snake  
+![Snake animation](https://github.com/dolunayc/dolunayc/blob/output/github-snake.svg)
+
+
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dolunayc&show_icons=true&theme=radical" width="400"/>
